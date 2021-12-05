@@ -1,0 +1,13 @@
+{
+    "name": "Caritasverband-Diozese-Hildesheim Workflow",
+    "description": "Caritasverband-Diozese-Hildesheim CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "node"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
